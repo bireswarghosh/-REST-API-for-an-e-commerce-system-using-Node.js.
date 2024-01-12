@@ -36,7 +36,7 @@ GET /products/search - Search for products by a query string.
 
 # Architectural Decisions
 Discuss the architecture of my application, such as MVC.
-
+```
 backend/
 |-- controllers/
 |   |-- productController.js
@@ -49,8 +49,7 @@ backend/
 |   |-- productRoutes.js
 |
 |-- app.js
-
-
+```
 
 # Postman Collection
    https://winter-zodiac-246698.postman.co/workspace/New-Team-Workspace~aa0cb478-9e32-454c-bbe9-1c923259a6e4/collection/27227427-a1f52ab0-74f8-4896-9f53-06610a7a5345?action=share&creator=27227427

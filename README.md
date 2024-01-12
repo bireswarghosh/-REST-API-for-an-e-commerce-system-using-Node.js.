@@ -19,7 +19,7 @@ Running the app: Instructions to start the server, e.g., npm start.
 A step by step series of examples that tell you how to get a development environment running.
 
 Clone the repository:
-git clone [repository_url]
+git clone [[repository_url](https://github.com/bireswarghosh/-REST-API-for-an-e-commerce-system-using-Node.js..git)]
 
 
 ## API Documentation
